@@ -1,1 +1,1 @@
-# Not finish yet, but to show you some of my code.
+# Not finish yet, but just to show you some of my code.
